@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="Sport TV",SPORT TV 1
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/658428.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="Sport TV",SPORT TV 2
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/658429.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="Sport TV",SPORT TV 3
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/658430.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="Sport TV",SPORT TV 4
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/658431.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="Sport TV",SPORT TV 5
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/658432.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="Sport TV",SPORT TV 6
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/658433.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-mais-pt.png?raw=true" group-title="Sport TV",SPORT TV+ ᵁᴴᴰ
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/156951.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="Sport TV",SPORT TV 1 ᵁᴴᴰ
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/156952.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="Sport TV",SPORT TV 2 ᵁᴴᴰ
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/156954.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="Sport TV",SPORT TV 3 ᵁᴴᴰ
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/156954.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="Sport TV",SPORT TV 4 ᵁᴴᴰ
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/156956.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="Sport TV",SPORT TV 5 ᵁᴴᴰ
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/156957.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true" group-title="Sport TV",SPORT TV 6 ᵁᴴᴰ
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/156958.m3u8
